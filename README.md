@@ -1,0 +1,2 @@
+# feedseer-qualifiers
+Feedseer qualifiers
